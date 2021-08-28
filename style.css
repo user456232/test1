@@ -1,0 +1,49 @@
+body{
+    background-color: #CCF2F4;
+
+}
+.a{
+    background-color:#1687A7;
+    border-width: 10px;
+    border-color:rgb(95, 7, 236);
+    border-style: solid;
+    color: honeydew;
+  }
+  .a img {
+    width: 10%;
+}
+  hr {
+    background-color: #CCF2F4;
+    border-style: none;
+    border-top-style: dotted;
+    width: 40%;
+    border-width: 6px;
+    color: gray;
+  }
+  h1{
+    color: #1687A7;
+}
+h2{
+    color: #114d5e;
+}
+h3{
+    color: #276678;
+}
+
+/* Contact us */
+.warning {
+    background-color: #CCF2F4;
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.warning img {
+    width: 100%;
+}
+
+.warning p {
+    font: small-caps bold 1.2rem sans-serif;
+    text-align: center;
+    
+}
