@@ -47,3 +47,15 @@ h3{
     text-align: center;
     
 }
+.spinner{
+    height:30px;
+    width: 30px;
+    animation : spinner 1s linear infinite;
+}
+
+@keyframes spinner {
+    to {
+        transform:rotate(360 eg);
+    }
+    
+}
