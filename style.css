@@ -55,7 +55,7 @@ h3{
 
 @keyframes spinner {
     to {
-        transform:rotate(360 eg);
+        transform:rotate(360deg);
     }
     
 }
