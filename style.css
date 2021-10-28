@@ -50,7 +50,7 @@ h3{
 .spinner{
     height:30px;
     width: 30px;
-    animation : spinner 1s linear infinite;
+    animation : spinner 3s linear infinite;
 }
 
 @keyframes spinner {
